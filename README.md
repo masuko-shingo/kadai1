@@ -1,5 +1,8 @@
 # kadai1
-ロボットシステム学課題１デバイスドライバ
+2020年ロボットシステム学課題１デバイスドライバ
+
+上田先生のデバイスドライバmled10.cをベースに一部改造しました。
+改造した部分は、出力を行うGPIOピンをGPIO:25からGPIO:21に変更しています。
 # Copyright
 Copyright © (Free Software Foundation, Inc.) 2020  Ryuichi Ueda and Shingo Masuko. 
 
