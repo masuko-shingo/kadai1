@@ -1,7 +1,7 @@
 # kadai1
 ロボットシステム学課題１デバイスドライバ
 # Copyright
-Copyright © (Free Software Foundation, Inc.) 2020  Masuko. 
+Copyright © (Free Software Foundation, Inc.) 2020  Ryuichi Ueda and Shingo Masuko. 
 
 This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
