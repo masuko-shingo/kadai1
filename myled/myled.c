@@ -1,5 +1,5 @@
 // driver for LED control
-// Copyright (C) 2020 RyuichiUeda and Shingo Masuko
+// Copyright (C) 2020 RyuichiUeda + Shingo Masuko
 //
 // This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 //
@@ -14,7 +14,7 @@
 #include <linux/uaccess.h>
 #include <linux/io.h>
 
-MODULE_AUTHOR("Ryuichi Ueda and Shingo Masuko");
+MODULE_AUTHOR("Ryuichi Ueda + Shingo Masuko");
 MODULE_DESCRIPTION("driver for LED control");
 MODULE_LICENSE("GPL");
 MODULE_VERSION("0.0.1");
