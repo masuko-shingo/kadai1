@@ -7,7 +7,7 @@
 
 デバイスドライバとは関係ないのですが、第七～八回授業中に行ったsushiの表示するコードなどが残っています
 # Copyright
-Copyright © (Free Software Foundation, Inc.) 2020  Ryuichi Ueda and Shingo Masuko. 
+Copyright © (Free Software Foundation, Inc.) 2020  Ryuichi Ueda + Shingo Masuko. 
 
 This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
