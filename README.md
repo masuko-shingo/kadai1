@@ -20,7 +20,7 @@
 # 実行方法
 ```
 $ git clone https://github.com/masuko-shingo/kadai1.git
-$ cd kadai1/myled
+$ cd kadai1/myled/
 $ make
 $ sudo insmod myled.ko
 $ sudo chmod 666 /dev/myled0
