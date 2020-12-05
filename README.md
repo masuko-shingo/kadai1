@@ -19,7 +19,7 @@
 # 実行方法
 ```
 $ git clone https://github.com/masuko-shingo/kadai1.git     //このリポジトリをローカルにクローンする
-$ cd kadai1/myled/
+$ cd kadai1/myled/      //ディレクトリの移動
 $ make      //コンパイル
 $ sudo insmod myled.ko      //カーネルモジュールのインストール
 $ sudo chmod 666 /dev/myled0        //パーミッションの変更
