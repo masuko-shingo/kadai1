@@ -18,13 +18,13 @@
 
 # 実行方法
 ```
-$ git clone https://github.com/masuko-shingo/kadai1.git //このリポジトリをローカルにクローンする
+$ git clone https://github.com/masuko-shingo/kadai1.git     //このリポジトリをローカルにクローンする
 $ cd kadai1/myled/
 $ make
 $ sudo insmod myled.ko
 $ sudo chmod 666 /dev/myled0
-$ echo 1 > /dev/myled0 //ledの点灯
-$ echo 0 > /dev/myled0 //ledの消灯
+$ echo 1 > /dev/myled0      //ledの点灯
+$ echo 0 > /dev/myled0      //ledの消灯
 ```
 
 # 回路図
