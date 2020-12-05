@@ -29,7 +29,7 @@ $ echo 0 > /dev/myled0
 ```
 
 # 回路図
-https://photos.app.goo.gl/Ti2BNaidcH46Ayzn9
+![回路図ロボシス課題１](https://user-images.githubusercontent.com/72721963/101239901-aa4b0a80-372e-11eb-9ddb-fcbab11e1ce7.png)
 
 # 動画
 https://youtu.be/TRhwyz44XkY
