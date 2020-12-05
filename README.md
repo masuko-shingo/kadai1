@@ -21,11 +21,11 @@
 $ git clone https://github.com/masuko-shingo/kadai1.git     //このリポジトリをローカルにクローンする
 $ cd kadai1/myled/      //ディレクトリの移動
 $ make      //コンパイル
-$ sudo rmmod myled.ko       //カーネルモジュールのアンインストール
 $ sudo insmod myled.ko      //カーネルモジュールのインストール
 $ sudo chmod 666 /dev/myled0        //パーミッションの変更
 $ echo 1 > /dev/myled0      //ledの点灯
 $ echo 0 > /dev/myled0      //ledの消灯
+$ sudo rmmod myled.ko       //カーネルモジュールのアンインストール
 ```
 
 # 回路図
