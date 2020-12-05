@@ -1,7 +1,6 @@
 # kadai1
 2020年ロボットシステム学課題１デバイスドライバ
 # 概要
-「echo 1 > /dev/myled0」を実行するとLEDが点灯し、「echo 0 > /dev/myled0」を実行するとLEDが消灯します
 
 上田先生のデバイスドライバmyled10.cをベースに一部改造しました。
 
@@ -19,13 +18,13 @@
 
 # 実行方法
 ```
-$ git clone https://github.com/masuko-shingo/kadai1.git
+$ git clone https://github.com/masuko-shingo/kadai1.git //このリポジトリをローカルにクローンする
 $ cd kadai1/myled/
 $ make
 $ sudo insmod myled.ko
 $ sudo chmod 666 /dev/myled0
-$ echo 1 > /dev/myled0
-$ echo 0 > /dev/myled0
+$ echo 1 > /dev/myled0 //ledの点灯
+$ echo 0 > /dev/myled0 //ledの消灯
 ```
 
 # 回路図
